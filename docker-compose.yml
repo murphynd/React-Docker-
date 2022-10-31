@@ -8,5 +8,5 @@ services:
       - ./src:/app/src 
     environment:
       - REACT_APP_NAME=Natalie
-      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
     command: npm start

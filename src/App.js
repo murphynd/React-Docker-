@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          {`Hello ${process.env.REACT_APP_NAME} baby lol `}
+          {`Hello ${process.env.REACT_APP_NAME} baby hehe`}
         </p>
         <a
           className="App-link"
